@@ -1,5 +1,5 @@
 * 常规函数
-```javascript
+```
 	(1)alert	显示一个警告对话框，包括一个OK按钮。
 	(2)confirm	显示一个确认对话框，包括OK、Cancel按钮。
 	(3)escape	将字符转换成Unicode码。
@@ -11,7 +11,7 @@
 	(9)unescape	解码由escape函数编码的字符。
 ```
 * Array对象数组函数		
-```javascript
+```
 	(1)join	设置分隔符连接数组元素为一个字符串。
 	(2)langth	返回数组的长度。
 	(3)reverse	将数组元素顺序颠倒。
@@ -25,7 +25,7 @@
 	(11)shift	开头删除数据
 ```
 * Data对象日期函数		
-```javascript
+```
 	(1)getDate	返回日期的“日”部分，值为1～31。
 	(2)getDay	返回星期，值为0～6，0表示星期日。
 	(3)getHours	返回日期的“小时”部分，值为0～23。
@@ -48,7 +48,7 @@
 	(20)UTC	返回从1970年1月1日零时整算起的毫秒数(GMT)。
 ```
 * Math对象的属性和函数
-```javascript
+```
 	Math.e(e自然对数)
 	Math.LN2（2的自然对数)
 	Math.LN10(10的自然对数)
